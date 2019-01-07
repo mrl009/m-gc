@@ -1,0 +1,15 @@
+# 以'#'开始的行，被视为注释.
+# 忽略掉所有文件名是 tags 的文件.
+tags
+# 忽略所有.swp文件,
+*.swp
+.idea/
+admin/tmp/
+/config.php
+.project
+.DS_Store
+.tags
+.tags_sorted_by_file
+admin/index.php
+admin/test/
+admin/application/logs/
