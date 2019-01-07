@@ -9,38 +9,20 @@ class Login extends MY_Controller {
 		if($key['code']==200){
             $admin_key=$key['data']['token_private_key'];
         }
-		//$rs= $this->curl_get(ADMINAPI.'login/code?token_private_key='.$admin_key);
-		//$data['code']=$rs;
 		$data['admin_key']=$admin_key;
-		$data['rs'] = array_pop(json_decode($this->curl_get(ADMINAPI.'login/google_status'),true));
 		$this->load->view($this->isMobile()?'login':'login',$data);
 	}
 	public function checklogin(){
 		$data['username'] =$this->input->post('username');
 		$data['pwd']      =md5($this->input->post('password'));
-		$google     =$this->input->post('google');
-		
 		$data['token_private_key']=$this->input->post('token_private_key');
 		$rs= $this->curl_get(ADMINAPI.'login/token',$data);
 		$rs = json_decode($rs,true);
 		if($rs['code']==200){
-
 			$this->session->set_userdata('token',$rs['data']['token']);
 			$this->session->set_userdata('admin_id',$rs['data']['id']);
 			$this->session->set_userdata('admin_name',$rs['data']['username']);
 			$this->session->set_userdata('sid',$rs['data']['sid']);
-			$gg = array_pop(json_decode($this->curl_get(ADMINAPI.'login/google_status'),true));
-			if($gg['google_status']==1){
-				if($google){
-					$g=$this->check_google($google);
-					if(!$g){
-						exit($this->status('ERROR','谷歌口令密碼錯誤'));
-					}
-				}else{
-					exit($this->status('ERROR','請輸入谷歌口令'));
-				}
-			}
-			$this->curl_get(ADMINAPI.'manager/push_msg?msg='.$data['username']);
             exit($this->status('OK','執行成功'));
         }else{
             exit($this->status('ERROR',$rs['msg']));

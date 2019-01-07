@@ -24,13 +24,6 @@
                     <input type="hidden" value="<?php echo $admin_key?>" class="token_private_key" />
                 <input type="text" name="username" class="username" placeholder="Username">
                 <input type="password" name="password" class="password" placeholder="Password">
-                <?php if($rs['google_status']==1){?>
-                <input type="text" name="google" class="google" placeholder="谷歌驗證碼" maxlength="16">
-                <?php }?>
-                    <!--<input type="text" name="code" class="code" placeholder="驗證碼" style="width: 160px; float:left;">
-                    <span id="code">
-                    <img style="width:100px;height:42px;padding-top:26px" src="<?php /*echo ADMINAPI.'login/code?token_private_key='.$admin_key*/?>" class="code_pic"/>
-                    </span>-->
                 <button type="submit">登陸後臺</button>
                 <div class="error"><span>+</span></div>
             </form>
