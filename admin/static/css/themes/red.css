@@ -1,0 +1,14 @@
+.top-menu{border:0;overflow: hidden;height:43px;border-bottom: 3px solid #F39800;}
+.top-menu a:hover{background-color:#F39800;color:#fff !important;}
+.acitvebg{background-color:#F39800 !important;color:#fff !important;}
+.submenu li .active{color: #3487b7 !important;}
+.btn-danger {
+    color: #fff !important;
+    background-color: #F39800 !important;
+    border-color: #F39800 !important;
+}
+/*.datagrid-row-selected {
+    background: #F39800 !important;
+    color: #fff;
+}*/
+.tabs li.tabs-selected{border: 0; border-bottom: 3px #F39800 solid;font-size: 18px !important;}

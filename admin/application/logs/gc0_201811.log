@@ -1,0 +1,4502 @@
+[2018-11-08 07:09:29]  : [GET][error:cURL请求出错][url:http://gc.api.com/ping/ping][cURL连接资源信息:{"url":"http:\/\/gc.api.com\/ping\/ping","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":26.048621,"namelookup_time":2.1e-5,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0}][cURL头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;RlBjUi9pVmlCYU9WM0pIR3ZBQzBBNGRKWG1yZElzVnY4YjBzTnV0OU1uYz0=","ApiURL: ping\/ping"]][cURL错误信息:Connection timed out after 26047 milliseconds][cURL错误码:28]
+[2018-11-08 07:40:32]  : [GET][error:接口返回解析出错][url:http://gc.api.com/sx/shixun/get_user_sx_credit?uid=8966&][接口返回:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;RlBjUi9pVmlCYU9WM0pIR3ZBQzBBNGRKWG1yZElzVnY4YjBzTnV0OU1uYz0=","ApiURL: sx\/shixun\/get_user_sx_credit"]]
+[2018-11-08 07:40:53]  : [GET][error:接口返回解析出错][url:http://gc.api.com/sx/shixun/get_user_sx_credit?uid=8966&][接口返回:<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;RlBjUi9pVmlCYU9WM0pIR3ZBQzBBNGRKWG1yZElzVnY4YjBzTnV0OU1uYz0=","ApiURL: sx\/shixun\/get_user_sx_credit"]]
+[2018-11-08 07:41:32]  : [GET][error:cURL请求出错][url:http://gc.api.com/sx/shixun/get_user_sx_credit?uid=8966&][cURL连接资源信息:{"url":"http:\/\/gc.api.com\/sx\/shixun\/get_user_sx_credit?uid=8966&","content_type":null,"http_code":0,"header_size":0,"request_size":395,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":26.000599,"namelookup_time":2.1e-5,"connect_time":0.000216,"pretransfer_time":0.00026,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"127.0.0.1","certinfo":[],"primary_port":80,"local_ip":"127.0.0.1","local_port":53428}][cURL头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;RlBjUi9pVmlCYU9WM0pIR3ZBQzBBNGRKWG1yZElzVnY4YjBzTnV0OU1uYz0=","ApiURL: sx\/shixun\/get_user_sx_credit"]][cURL错误信息:Operation timed out after 26000 milliseconds with 0 bytes received][cURL错误码:28]
+[2018-11-08 08:07:59]  : [GET][error:接口返回解析出错][url:http://gc.api.com/level/member/index?page=1&rows=50&sort=id&order=desc&type=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1146</p><p>Table 'gc.gc_agent_line' doesn't exist</p><p>SELECT count(*) as total_rows
+FROM `gc_user` as `a`
+LEFT JOIN `gc_user_detail` `b` ON `a`.`id`=`b`.`uid`
+LEFT JOIN `gc_level` `c` ON `a`.`level_id`=`c`.`id`
+LEFT JOIN `gc_grade_mechanism` `d` ON `a`.`vip_id`=`d`.`id`
+LEFT JOIN `gc_agent_line` `l` ON `a`.`id`=`l`.`uid`
+ORDER BY `a`.`id` DESC</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 516</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;RlBjUi9pVmlCYU9WM0pIR3ZBQzBBNGRKWG1yZElzVnY4YjBzTnV0OU1uYz0=","ApiURL: level\/member\/index"]]
+[2018-11-08 08:08:00]  : [GET][error:接口返回解析出错][url:http://gc.api.com/level/member/index?is_level=&agent_name=&agent_id=&status=&from_way=&start=&end=&tj=1&tj_txt=mrl001&page=1&rows=50&sort=id&order=desc&type=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1146</p><p>Table 'gc.gc_agent_line' doesn't exist</p><p>SELECT count(*) as total_rows
+FROM `gc_user` as `a`
+LEFT JOIN `gc_user_detail` `b` ON `a`.`id`=`b`.`uid`
+LEFT JOIN `gc_level` `c` ON `a`.`level_id`=`c`.`id`
+LEFT JOIN `gc_grade_mechanism` `d` ON `a`.`vip_id`=`d`.`id`
+LEFT JOIN `gc_agent_line` `l` ON `a`.`id`=`l`.`uid`
+WHERE `a`.`username` IN('mrl001')
+ORDER BY `a`.`id` DESC</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 516</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;RlBjUi9pVmlCYU9WM0pIR3ZBQzBBNGRKWG1yZElzVnY4YjBzTnV0OU1uYz0=","ApiURL: level\/member\/index"]]
+[2018-11-13 02:20:02]  : [GET][error:接口返回解析出错][url:http://gc.api.com/auth/index/index?page=1&rows=50&sort=id&order=desc&][接口返回:array(2) {
+  ["total"]=>
+  string(2) "69"
+  ["rows"]=>
+  array(50) {
+    [0]=>
+    array(5) {
+      ["id"]=>
+      string(2) "69"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541383255"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [1]=>
+    array(5) {
+      ["id"]=>
+      string(2) "68"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541382862"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [2]=>
+    array(5) {
+      ["id"]=>
+      string(2) "67"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541151013"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [3]=>
+    array(5) {
+      ["id"]=>
+      string(2) "66"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541150995"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [4]=>
+    array(5) {
+      ["id"]=>
+      string(2) "65"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953344"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [5]=>
+    array(5) {
+      ["id"]=>
+      string(2) "64"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953308"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [6]=>
+    array(5) {
+      ["id"]=>
+      string(2) "63"
+      ["uid"]=>
+      string(5) "20547"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535937777"
+      ["username"]=>
+      string(7) "efghgdf"
+    }
+    [7]=>
+    array(5) {
+      ["id"]=>
+      string(2) "62"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535335078"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [8]=>
+    array(5) {
+      ["id"]=>
+      string(2) "61"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577882"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [9]=>
+    array(5) {
+      ["id"]=>
+      string(2) "60"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577489"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [10]=>
+    array(5) {
+      ["id"]=>
+      string(2) "59"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534152049"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [11]=>
+    array(5) {
+      ["id"]=>
+      string(2) "58"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534149839"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [12]=>
+    array(5) {
+      ["id"]=>
+      string(2) "57"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530970098"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [13]=>
+    array(5) {
+      ["id"]=>
+      string(2) "56"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530969837"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [14]=>
+    array(5) {
+      ["id"]=>
+      string(2) "55"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530605830"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [15]=>
+    array(5) {
+      ["id"]=>
+      string(2) "54"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085437"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [16]=>
+    array(5) {
+      ["id"]=>
+      string(2) "53"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085341"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [17]=>
+    array(5) {
+      ["id"]=>
+      string(2) "52"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085229"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [18]=>
+    array(5) {
+      ["id"]=>
+      string(2) "51"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085186"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [19]=>
+    array(5) {
+      ["id"]=>
+      string(2) "50"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1529465716"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [20]=>
+    array(5) {
+      ["id"]=>
+      string(2) "49"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251794"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [21]=>
+    array(5) {
+      ["id"]=>
+      string(2) "48"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251569"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [22]=>
+    array(5) {
+      ["id"]=>
+      string(2) "47"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836931"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [23]=>
+    array(5) {
+      ["id"]=>
+      string(2) "46"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836914"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [24]=>
+    array(5) {
+      ["id"]=>
+      string(2) "45"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836892"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [25]=>
+    array(5) {
+      ["id"]=>
+      string(2) "44"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527824788"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [26]=>
+    array(5) {
+      ["id"]=>
+      string(2) "43"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527644959"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [27]=>
+    array(5) {
+      ["id"]=>
+      string(2) "42"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527557873"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [28]=>
+    array(5) {
+      ["id"]=>
+      string(2) "41"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527499085"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [29]=>
+    array(5) {
+      ["id"]=>
+      string(2) "40"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338178"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [30]=>
+    array(5) {
+      ["id"]=>
+      string(2) "39"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338156"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [31]=>
+    array(5) {
+      ["id"]=>
+      string(2) "38"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801424"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [32]=>
+    array(5) {
+      ["id"]=>
+      string(2) "37"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801355"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [33]=>
+    array(5) {
+      ["id"]=>
+      string(2) "36"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801149"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [34]=>
+    array(5) {
+      ["id"]=>
+      string(2) "35"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801052"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [35]=>
+    array(5) {
+      ["id"]=>
+      string(2) "34"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1516090823"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [36]=>
+    array(5) {
+      ["id"]=>
+      string(2) "33"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1515744217"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [37]=>
+    array(5) {
+      ["id"]=>
+      string(2) "32"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171107"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [38]=>
+    array(5) {
+      ["id"]=>
+      string(2) "31"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171069"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [39]=>
+    array(5) {
+      ["id"]=>
+      string(2) "30"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-公司入款误存清除稽核"
+      ["addtime"]=>
+      string(10) "1514166913"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [40]=>
+    array(5) {
+      ["id"]=>
+      string(2) "29"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768285"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [41]=>
+    array(5) {
+      ["id"]=>
+      string(2) "28"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768257"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [42]=>
+    array(5) {
+      ["id"]=>
+      string(2) "27"
+      ["uid"]=>
+      string(3) "138"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768252"
+      ["username"]=>
+      string(9) "zpd137137"
+    }
+    [43]=>
+    array(5) {
+      ["id"]=>
+      string(2) "26"
+      ["uid"]=>
+      string(2) "11"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1512720073"
+      ["username"]=>
+      string(11) "p1368899153"
+    }
+    [44]=>
+    array(5) {
+      ["id"]=>
+      string(2) "25"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511752641"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [45]=>
+    array(5) {
+      ["id"]=>
+      string(2) "24"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751306"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [46]=>
+    array(5) {
+      ["id"]=>
+      string(2) "23"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751281"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [47]=>
+    array(5) {
+      ["id"]=>
+      string(2) "22"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751102"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [48]=>
+    array(5) {
+      ["id"]=>
+      string(2) "21"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511750532"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [49]=>
+    array(5) {
+      ["id"]=>
+      string(2) "20"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511749824"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+  }
+}
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;VXpDd2FnWkh2WStCbGdFcis5UWNVQlFEcjc2WW02cmJIVUo2ZjI2dlF3QT0=","ApiURL: auth\/index\/index"]]
+[2018-11-13 02:20:26]  : [GET][error:接口返回解析出错][url:http://gc.api.com/auth/index/index][接口返回:array(2) {
+  ["total"]=>
+  string(2) "69"
+  ["rows"]=>
+  array(69) {
+    [0]=>
+    array(5) {
+      ["id"]=>
+      string(2) "69"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541383255"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [1]=>
+    array(5) {
+      ["id"]=>
+      string(2) "68"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541382862"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [2]=>
+    array(5) {
+      ["id"]=>
+      string(2) "67"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541151013"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [3]=>
+    array(5) {
+      ["id"]=>
+      string(2) "66"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541150995"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [4]=>
+    array(5) {
+      ["id"]=>
+      string(2) "65"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953344"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [5]=>
+    array(5) {
+      ["id"]=>
+      string(2) "64"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953308"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [6]=>
+    array(5) {
+      ["id"]=>
+      string(2) "63"
+      ["uid"]=>
+      string(5) "20547"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535937777"
+      ["username"]=>
+      string(7) "efghgdf"
+    }
+    [7]=>
+    array(5) {
+      ["id"]=>
+      string(2) "62"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535335078"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [8]=>
+    array(5) {
+      ["id"]=>
+      string(2) "61"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577882"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [9]=>
+    array(5) {
+      ["id"]=>
+      string(2) "60"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577489"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [10]=>
+    array(5) {
+      ["id"]=>
+      string(2) "59"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534152049"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [11]=>
+    array(5) {
+      ["id"]=>
+      string(2) "58"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534149839"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [12]=>
+    array(5) {
+      ["id"]=>
+      string(2) "57"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530970098"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [13]=>
+    array(5) {
+      ["id"]=>
+      string(2) "56"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530969837"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [14]=>
+    array(5) {
+      ["id"]=>
+      string(2) "55"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530605830"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [15]=>
+    array(5) {
+      ["id"]=>
+      string(2) "54"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085437"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [16]=>
+    array(5) {
+      ["id"]=>
+      string(2) "53"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085341"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [17]=>
+    array(5) {
+      ["id"]=>
+      string(2) "52"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085229"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [18]=>
+    array(5) {
+      ["id"]=>
+      string(2) "51"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085186"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [19]=>
+    array(5) {
+      ["id"]=>
+      string(2) "50"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1529465716"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [20]=>
+    array(5) {
+      ["id"]=>
+      string(2) "49"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251794"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [21]=>
+    array(5) {
+      ["id"]=>
+      string(2) "48"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251569"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [22]=>
+    array(5) {
+      ["id"]=>
+      string(2) "47"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836931"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [23]=>
+    array(5) {
+      ["id"]=>
+      string(2) "46"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836914"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [24]=>
+    array(5) {
+      ["id"]=>
+      string(2) "45"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836892"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [25]=>
+    array(5) {
+      ["id"]=>
+      string(2) "44"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527824788"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [26]=>
+    array(5) {
+      ["id"]=>
+      string(2) "43"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527644959"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [27]=>
+    array(5) {
+      ["id"]=>
+      string(2) "42"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527557873"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [28]=>
+    array(5) {
+      ["id"]=>
+      string(2) "41"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527499085"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [29]=>
+    array(5) {
+      ["id"]=>
+      string(2) "40"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338178"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [30]=>
+    array(5) {
+      ["id"]=>
+      string(2) "39"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338156"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [31]=>
+    array(5) {
+      ["id"]=>
+      string(2) "38"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801424"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [32]=>
+    array(5) {
+      ["id"]=>
+      string(2) "37"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801355"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [33]=>
+    array(5) {
+      ["id"]=>
+      string(2) "36"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801149"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [34]=>
+    array(5) {
+      ["id"]=>
+      string(2) "35"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801052"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [35]=>
+    array(5) {
+      ["id"]=>
+      string(2) "34"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1516090823"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [36]=>
+    array(5) {
+      ["id"]=>
+      string(2) "33"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1515744217"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [37]=>
+    array(5) {
+      ["id"]=>
+      string(2) "32"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171107"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [38]=>
+    array(5) {
+      ["id"]=>
+      string(2) "31"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171069"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [39]=>
+    array(5) {
+      ["id"]=>
+      string(2) "30"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-公司入款误存清除稽核"
+      ["addtime"]=>
+      string(10) "1514166913"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [40]=>
+    array(5) {
+      ["id"]=>
+      string(2) "29"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768285"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [41]=>
+    array(5) {
+      ["id"]=>
+      string(2) "28"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768257"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [42]=>
+    array(5) {
+      ["id"]=>
+      string(2) "27"
+      ["uid"]=>
+      string(3) "138"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768252"
+      ["username"]=>
+      string(9) "zpd137137"
+    }
+    [43]=>
+    array(5) {
+      ["id"]=>
+      string(2) "26"
+      ["uid"]=>
+      string(2) "11"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1512720073"
+      ["username"]=>
+      string(11) "p1368899153"
+    }
+    [44]=>
+    array(5) {
+      ["id"]=>
+      string(2) "25"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511752641"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [45]=>
+    array(5) {
+      ["id"]=>
+      string(2) "24"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751306"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [46]=>
+    array(5) {
+      ["id"]=>
+      string(2) "23"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751281"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [47]=>
+    array(5) {
+      ["id"]=>
+      string(2) "22"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751102"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [48]=>
+    array(5) {
+      ["id"]=>
+      string(2) "21"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511750532"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [49]=>
+    array(5) {
+      ["id"]=>
+      string(2) "20"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511749824"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [50]=>
+    array(5) {
+      ["id"]=>
+      string(2) "19"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654121"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [51]=>
+    array(5) {
+      ["id"]=>
+      string(2) "18"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654083"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [52]=>
+    array(5) {
+      ["id"]=>
+      string(2) "17"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589158"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [53]=>
+    array(5) {
+      ["id"]=>
+      string(2) "16"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589131"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [54]=>
+    array(5) {
+      ["id"]=>
+      string(2) "15"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589045"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [55]=>
+    array(5) {
+      ["id"]=>
+      string(2) "14"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589010"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [56]=>
+    array(5) {
+      ["id"]=>
+      string(2) "13"
+      ["uid"]=>
+      string(2) "72"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511588885"
+      ["username"]=>
+      string(6) "shan87"
+    }
+    [57]=>
+    array(5) {
+      ["id"]=>
+      string(2) "12"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510236"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [58]=>
+    array(5) {
+      ["id"]=>
+      string(2) "11"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510208"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [59]=>
+    array(5) {
+      ["id"]=>
+      string(2) "10"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511508140"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [60]=>
+    array(5) {
+      ["id"]=>
+      string(1) "9"
+      ["uid"]=>
+      string(2) "37"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330202"
+      ["username"]=>
+      string(7) "xue1221"
+    }
+    [61]=>
+    array(5) {
+      ["id"]=>
+      string(1) "8"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330095"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [62]=>
+    array(5) {
+      ["id"]=>
+      string(1) "7"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511234511"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [63]=>
+    array(5) {
+      ["id"]=>
+      string(1) "6"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511232265"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [64]=>
+    array(5) {
+      ["id"]=>
+      string(1) "5"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511230992"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [65]=>
+    array(5) {
+      ["id"]=>
+      string(1) "4"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510919162"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [66]=>
+    array(5) {
+      ["id"]=>
+      string(1) "3"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918867"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [67]=>
+    array(5) {
+      ["id"]=>
+      string(1) "2"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918715"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [68]=>
+    array(5) {
+      ["id"]=>
+      string(1) "1"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510558390"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+  }
+}
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;VXpDd2FnWkh2WStCbGdFcis5UWNVQlFEcjc2WW02cmJIVUo2ZjI2dlF3QT0=","ApiURL: auth\/index\/index"]]
+[2018-11-13 02:20:47]  : [GET][error:接口返回解析出错][url:http://gc.api.com/auth/index/index][接口返回:array(2) {
+  ["total"]=>
+  string(2) "69"
+  ["rows"]=>
+  array(69) {
+    [0]=>
+    array(5) {
+      ["id"]=>
+      string(2) "69"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541383255"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [1]=>
+    array(5) {
+      ["id"]=>
+      string(2) "68"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541382862"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [2]=>
+    array(5) {
+      ["id"]=>
+      string(2) "67"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541151013"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [3]=>
+    array(5) {
+      ["id"]=>
+      string(2) "66"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541150995"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [4]=>
+    array(5) {
+      ["id"]=>
+      string(2) "65"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953344"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [5]=>
+    array(5) {
+      ["id"]=>
+      string(2) "64"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953308"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [6]=>
+    array(5) {
+      ["id"]=>
+      string(2) "63"
+      ["uid"]=>
+      string(5) "20547"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535937777"
+      ["username"]=>
+      string(7) "efghgdf"
+    }
+    [7]=>
+    array(5) {
+      ["id"]=>
+      string(2) "62"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535335078"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [8]=>
+    array(5) {
+      ["id"]=>
+      string(2) "61"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577882"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [9]=>
+    array(5) {
+      ["id"]=>
+      string(2) "60"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577489"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [10]=>
+    array(5) {
+      ["id"]=>
+      string(2) "59"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534152049"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [11]=>
+    array(5) {
+      ["id"]=>
+      string(2) "58"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534149839"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [12]=>
+    array(5) {
+      ["id"]=>
+      string(2) "57"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530970098"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [13]=>
+    array(5) {
+      ["id"]=>
+      string(2) "56"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530969837"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [14]=>
+    array(5) {
+      ["id"]=>
+      string(2) "55"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530605830"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [15]=>
+    array(5) {
+      ["id"]=>
+      string(2) "54"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085437"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [16]=>
+    array(5) {
+      ["id"]=>
+      string(2) "53"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085341"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [17]=>
+    array(5) {
+      ["id"]=>
+      string(2) "52"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085229"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [18]=>
+    array(5) {
+      ["id"]=>
+      string(2) "51"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085186"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [19]=>
+    array(5) {
+      ["id"]=>
+      string(2) "50"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1529465716"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [20]=>
+    array(5) {
+      ["id"]=>
+      string(2) "49"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251794"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [21]=>
+    array(5) {
+      ["id"]=>
+      string(2) "48"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251569"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [22]=>
+    array(5) {
+      ["id"]=>
+      string(2) "47"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836931"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [23]=>
+    array(5) {
+      ["id"]=>
+      string(2) "46"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836914"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [24]=>
+    array(5) {
+      ["id"]=>
+      string(2) "45"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836892"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [25]=>
+    array(5) {
+      ["id"]=>
+      string(2) "44"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527824788"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [26]=>
+    array(5) {
+      ["id"]=>
+      string(2) "43"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527644959"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [27]=>
+    array(5) {
+      ["id"]=>
+      string(2) "42"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527557873"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [28]=>
+    array(5) {
+      ["id"]=>
+      string(2) "41"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527499085"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [29]=>
+    array(5) {
+      ["id"]=>
+      string(2) "40"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338178"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [30]=>
+    array(5) {
+      ["id"]=>
+      string(2) "39"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338156"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [31]=>
+    array(5) {
+      ["id"]=>
+      string(2) "38"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801424"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [32]=>
+    array(5) {
+      ["id"]=>
+      string(2) "37"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801355"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [33]=>
+    array(5) {
+      ["id"]=>
+      string(2) "36"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801149"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [34]=>
+    array(5) {
+      ["id"]=>
+      string(2) "35"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801052"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [35]=>
+    array(5) {
+      ["id"]=>
+      string(2) "34"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1516090823"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [36]=>
+    array(5) {
+      ["id"]=>
+      string(2) "33"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1515744217"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [37]=>
+    array(5) {
+      ["id"]=>
+      string(2) "32"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171107"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [38]=>
+    array(5) {
+      ["id"]=>
+      string(2) "31"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171069"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [39]=>
+    array(5) {
+      ["id"]=>
+      string(2) "30"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-公司入款误存清除稽核"
+      ["addtime"]=>
+      string(10) "1514166913"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [40]=>
+    array(5) {
+      ["id"]=>
+      string(2) "29"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768285"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [41]=>
+    array(5) {
+      ["id"]=>
+      string(2) "28"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768257"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [42]=>
+    array(5) {
+      ["id"]=>
+      string(2) "27"
+      ["uid"]=>
+      string(3) "138"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768252"
+      ["username"]=>
+      string(9) "zpd137137"
+    }
+    [43]=>
+    array(5) {
+      ["id"]=>
+      string(2) "26"
+      ["uid"]=>
+      string(2) "11"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1512720073"
+      ["username"]=>
+      string(11) "p1368899153"
+    }
+    [44]=>
+    array(5) {
+      ["id"]=>
+      string(2) "25"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511752641"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [45]=>
+    array(5) {
+      ["id"]=>
+      string(2) "24"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751306"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [46]=>
+    array(5) {
+      ["id"]=>
+      string(2) "23"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751281"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [47]=>
+    array(5) {
+      ["id"]=>
+      string(2) "22"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751102"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [48]=>
+    array(5) {
+      ["id"]=>
+      string(2) "21"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511750532"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [49]=>
+    array(5) {
+      ["id"]=>
+      string(2) "20"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511749824"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [50]=>
+    array(5) {
+      ["id"]=>
+      string(2) "19"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654121"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [51]=>
+    array(5) {
+      ["id"]=>
+      string(2) "18"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654083"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [52]=>
+    array(5) {
+      ["id"]=>
+      string(2) "17"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589158"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [53]=>
+    array(5) {
+      ["id"]=>
+      string(2) "16"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589131"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [54]=>
+    array(5) {
+      ["id"]=>
+      string(2) "15"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589045"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [55]=>
+    array(5) {
+      ["id"]=>
+      string(2) "14"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589010"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [56]=>
+    array(5) {
+      ["id"]=>
+      string(2) "13"
+      ["uid"]=>
+      string(2) "72"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511588885"
+      ["username"]=>
+      string(6) "shan87"
+    }
+    [57]=>
+    array(5) {
+      ["id"]=>
+      string(2) "12"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510236"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [58]=>
+    array(5) {
+      ["id"]=>
+      string(2) "11"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510208"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [59]=>
+    array(5) {
+      ["id"]=>
+      string(2) "10"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511508140"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [60]=>
+    array(5) {
+      ["id"]=>
+      string(1) "9"
+      ["uid"]=>
+      string(2) "37"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330202"
+      ["username"]=>
+      string(7) "xue1221"
+    }
+    [61]=>
+    array(5) {
+      ["id"]=>
+      string(1) "8"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330095"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [62]=>
+    array(5) {
+      ["id"]=>
+      string(1) "7"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511234511"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [63]=>
+    array(5) {
+      ["id"]=>
+      string(1) "6"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511232265"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [64]=>
+    array(5) {
+      ["id"]=>
+      string(1) "5"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511230992"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [65]=>
+    array(5) {
+      ["id"]=>
+      string(1) "4"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510919162"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [66]=>
+    array(5) {
+      ["id"]=>
+      string(1) "3"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918867"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [67]=>
+    array(5) {
+      ["id"]=>
+      string(1) "2"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918715"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [68]=>
+    array(5) {
+      ["id"]=>
+      string(1) "1"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510558390"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+  }
+}
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;VXpDd2FnWkh2WStCbGdFcis5UWNVQlFEcjc2WW02cmJIVUo2ZjI2dlF3QT0=","ApiURL: auth\/index\/index"]]
+[2018-11-13 02:21:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/auth/index/index][接口返回:array(2) {
+  ["total"]=>
+  string(2) "19"
+  ["rows"]=>
+  array(70) {
+    [0]=>
+    array(5) {
+      ["id"]=>
+      string(2) "69"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541383255"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [1]=>
+    array(5) {
+      ["id"]=>
+      string(2) "68"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541382862"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [2]=>
+    array(5) {
+      ["id"]=>
+      string(2) "67"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541151013"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [3]=>
+    array(5) {
+      ["id"]=>
+      string(2) "66"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541150995"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [4]=>
+    array(5) {
+      ["id"]=>
+      string(2) "65"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953344"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [5]=>
+    array(5) {
+      ["id"]=>
+      string(2) "64"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953308"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [6]=>
+    array(5) {
+      ["id"]=>
+      string(2) "63"
+      ["uid"]=>
+      string(5) "20547"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535937777"
+      ["username"]=>
+      string(7) "efghgdf"
+    }
+    [7]=>
+    array(5) {
+      ["id"]=>
+      string(2) "62"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535335078"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [8]=>
+    array(5) {
+      ["id"]=>
+      string(2) "61"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577882"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [9]=>
+    array(5) {
+      ["id"]=>
+      string(2) "60"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577489"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [10]=>
+    array(5) {
+      ["id"]=>
+      string(2) "59"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534152049"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [11]=>
+    array(5) {
+      ["id"]=>
+      string(2) "58"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534149839"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [12]=>
+    array(5) {
+      ["id"]=>
+      string(2) "57"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530970098"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [13]=>
+    array(5) {
+      ["id"]=>
+      string(2) "56"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530969837"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [14]=>
+    array(5) {
+      ["id"]=>
+      string(2) "55"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530605830"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [15]=>
+    array(5) {
+      ["id"]=>
+      string(2) "54"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085437"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [16]=>
+    array(5) {
+      ["id"]=>
+      string(2) "53"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085341"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [17]=>
+    array(5) {
+      ["id"]=>
+      string(2) "52"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085229"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [18]=>
+    array(5) {
+      ["id"]=>
+      string(2) "51"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085186"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [19]=>
+    array(5) {
+      ["id"]=>
+      string(2) "50"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1529465716"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [20]=>
+    array(5) {
+      ["id"]=>
+      string(2) "49"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251794"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [21]=>
+    array(5) {
+      ["id"]=>
+      string(2) "48"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251569"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [22]=>
+    array(5) {
+      ["id"]=>
+      string(2) "47"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836931"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [23]=>
+    array(5) {
+      ["id"]=>
+      string(2) "46"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836914"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [24]=>
+    array(5) {
+      ["id"]=>
+      string(2) "45"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836892"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [25]=>
+    array(5) {
+      ["id"]=>
+      string(2) "44"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527824788"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [26]=>
+    array(5) {
+      ["id"]=>
+      string(2) "43"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527644959"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [27]=>
+    array(5) {
+      ["id"]=>
+      string(2) "42"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527557873"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [28]=>
+    array(5) {
+      ["id"]=>
+      string(2) "41"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527499085"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [29]=>
+    array(5) {
+      ["id"]=>
+      string(2) "40"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338178"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [30]=>
+    array(5) {
+      ["id"]=>
+      string(2) "39"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338156"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [31]=>
+    array(5) {
+      ["id"]=>
+      string(2) "38"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801424"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [32]=>
+    array(5) {
+      ["id"]=>
+      string(2) "37"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801355"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [33]=>
+    array(5) {
+      ["id"]=>
+      string(2) "36"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801149"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [34]=>
+    array(5) {
+      ["id"]=>
+      string(2) "35"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801052"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [35]=>
+    array(5) {
+      ["id"]=>
+      string(2) "34"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1516090823"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [36]=>
+    array(5) {
+      ["id"]=>
+      string(2) "33"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1515744217"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [37]=>
+    array(5) {
+      ["id"]=>
+      string(2) "32"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171107"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [38]=>
+    array(5) {
+      ["id"]=>
+      string(2) "31"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171069"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [39]=>
+    array(5) {
+      ["id"]=>
+      string(2) "30"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-公司入款误存清除稽核"
+      ["addtime"]=>
+      string(10) "1514166913"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [40]=>
+    array(5) {
+      ["id"]=>
+      string(2) "29"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768285"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [41]=>
+    array(5) {
+      ["id"]=>
+      string(2) "28"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768257"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [42]=>
+    array(5) {
+      ["id"]=>
+      string(2) "27"
+      ["uid"]=>
+      string(3) "138"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768252"
+      ["username"]=>
+      string(9) "zpd137137"
+    }
+    [43]=>
+    array(5) {
+      ["id"]=>
+      string(2) "26"
+      ["uid"]=>
+      string(2) "11"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1512720073"
+      ["username"]=>
+      string(11) "p1368899153"
+    }
+    [44]=>
+    array(5) {
+      ["id"]=>
+      string(2) "25"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511752641"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [45]=>
+    array(5) {
+      ["id"]=>
+      string(2) "24"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751306"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [46]=>
+    array(5) {
+      ["id"]=>
+      string(2) "23"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751281"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [47]=>
+    array(5) {
+      ["id"]=>
+      string(2) "22"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751102"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [48]=>
+    array(5) {
+      ["id"]=>
+      string(2) "21"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511750532"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [49]=>
+    array(5) {
+      ["id"]=>
+      string(2) "20"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511749824"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [50]=>
+    array(5) {
+      ["id"]=>
+      string(2) "19"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654121"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [51]=>
+    array(5) {
+      ["id"]=>
+      string(2) "18"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654083"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [52]=>
+    array(5) {
+      ["id"]=>
+      string(2) "17"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589158"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [53]=>
+    array(5) {
+      ["id"]=>
+      string(2) "16"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589131"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [54]=>
+    array(5) {
+      ["id"]=>
+      string(2) "15"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589045"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [55]=>
+    array(5) {
+      ["id"]=>
+      string(2) "14"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589010"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [56]=>
+    array(5) {
+      ["id"]=>
+      string(2) "13"
+      ["uid"]=>
+      string(2) "72"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511588885"
+      ["username"]=>
+      string(6) "shan87"
+    }
+    [57]=>
+    array(5) {
+      ["id"]=>
+      string(2) "12"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510236"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [58]=>
+    array(5) {
+      ["id"]=>
+      string(2) "11"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510208"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [59]=>
+    array(5) {
+      ["id"]=>
+      string(2) "10"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511508140"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [60]=>
+    array(5) {
+      ["id"]=>
+      string(1) "9"
+      ["uid"]=>
+      string(2) "37"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330202"
+      ["username"]=>
+      string(7) "xue1221"
+    }
+    [61]=>
+    array(5) {
+      ["id"]=>
+      string(1) "8"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330095"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [62]=>
+    array(5) {
+      ["id"]=>
+      string(1) "7"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511234511"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [63]=>
+    array(5) {
+      ["id"]=>
+      string(1) "6"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511232265"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [64]=>
+    array(5) {
+      ["id"]=>
+      string(1) "5"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511230992"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [65]=>
+    array(5) {
+      ["id"]=>
+      string(1) "4"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510919162"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [66]=>
+    array(5) {
+      ["id"]=>
+      string(1) "3"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918867"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [67]=>
+    array(5) {
+      ["id"]=>
+      string(1) "2"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918715"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [68]=>
+    array(5) {
+      ["id"]=>
+      string(1) "1"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510558390"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    ["addtime"]=>
+    string(19) "1970-01-01 08:00:00"
+  }
+}
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;VXpDd2FnWkh2WStCbGdFcis5UWNVQlFEcjc2WW02cmJIVUo2ZjI2dlF3QT0=","ApiURL: auth\/index\/index"]]
+[2018-11-13 02:22:07]  : [GET][error:接口返回解析出错][url:http://gc.api.com/auth/index/index][接口返回:array(2) {
+  ["total"]=>
+  string(2) "19"
+  ["rows"]=>
+  array(70) {
+    [0]=>
+    array(5) {
+      ["id"]=>
+      string(2) "69"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541383255"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [1]=>
+    array(5) {
+      ["id"]=>
+      string(2) "68"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541382862"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [2]=>
+    array(5) {
+      ["id"]=>
+      string(2) "67"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541151013"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [3]=>
+    array(5) {
+      ["id"]=>
+      string(2) "66"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1541150995"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [4]=>
+    array(5) {
+      ["id"]=>
+      string(2) "65"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953344"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [5]=>
+    array(5) {
+      ["id"]=>
+      string(2) "64"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1540953308"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [6]=>
+    array(5) {
+      ["id"]=>
+      string(2) "63"
+      ["uid"]=>
+      string(5) "20547"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535937777"
+      ["username"]=>
+      string(7) "efghgdf"
+    }
+    [7]=>
+    array(5) {
+      ["id"]=>
+      string(2) "62"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1535335078"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [8]=>
+    array(5) {
+      ["id"]=>
+      string(2) "61"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577882"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [9]=>
+    array(5) {
+      ["id"]=>
+      string(2) "60"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534577489"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [10]=>
+    array(5) {
+      ["id"]=>
+      string(2) "59"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534152049"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [11]=>
+    array(5) {
+      ["id"]=>
+      string(2) "58"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1534149839"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [12]=>
+    array(5) {
+      ["id"]=>
+      string(2) "57"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530970098"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [13]=>
+    array(5) {
+      ["id"]=>
+      string(2) "56"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530969837"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [14]=>
+    array(5) {
+      ["id"]=>
+      string(2) "55"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530605830"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [15]=>
+    array(5) {
+      ["id"]=>
+      string(2) "54"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085437"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [16]=>
+    array(5) {
+      ["id"]=>
+      string(2) "53"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085341"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [17]=>
+    array(5) {
+      ["id"]=>
+      string(2) "52"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085229"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [18]=>
+    array(5) {
+      ["id"]=>
+      string(2) "51"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1530085186"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [19]=>
+    array(5) {
+      ["id"]=>
+      string(2) "50"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1529465716"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [20]=>
+    array(5) {
+      ["id"]=>
+      string(2) "49"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251794"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [21]=>
+    array(5) {
+      ["id"]=>
+      string(2) "48"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1528251569"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [22]=>
+    array(5) {
+      ["id"]=>
+      string(2) "47"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836931"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [23]=>
+    array(5) {
+      ["id"]=>
+      string(2) "46"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836914"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [24]=>
+    array(5) {
+      ["id"]=>
+      string(2) "45"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527836892"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [25]=>
+    array(5) {
+      ["id"]=>
+      string(2) "44"
+      ["uid"]=>
+      string(4) "4947"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527824788"
+      ["username"]=>
+      string(6) "hg7788"
+    }
+    [26]=>
+    array(5) {
+      ["id"]=>
+      string(2) "43"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527644959"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [27]=>
+    array(5) {
+      ["id"]=>
+      string(2) "42"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527557873"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [28]=>
+    array(5) {
+      ["id"]=>
+      string(2) "41"
+      ["uid"]=>
+      string(5) "20004"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1527499085"
+      ["username"]=>
+      string(6) "mrl002"
+    }
+    [29]=>
+    array(5) {
+      ["id"]=>
+      string(2) "40"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338178"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [30]=>
+    array(5) {
+      ["id"]=>
+      string(2) "39"
+      ["uid"]=>
+      string(4) "8966"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1522338156"
+      ["username"]=>
+      string(6) "mrl001"
+    }
+    [31]=>
+    array(5) {
+      ["id"]=>
+      string(2) "38"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801424"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [32]=>
+    array(5) {
+      ["id"]=>
+      string(2) "37"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801355"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [33]=>
+    array(5) {
+      ["id"]=>
+      string(2) "36"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801149"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [34]=>
+    array(5) {
+      ["id"]=>
+      string(2) "35"
+      ["uid"]=>
+      string(5) "20519"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1521801052"
+      ["username"]=>
+      string(6) "mrl005"
+    }
+    [35]=>
+    array(5) {
+      ["id"]=>
+      string(2) "34"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1516090823"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [36]=>
+    array(5) {
+      ["id"]=>
+      string(2) "33"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1515744217"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [37]=>
+    array(5) {
+      ["id"]=>
+      string(2) "32"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171107"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [38]=>
+    array(5) {
+      ["id"]=>
+      string(2) "31"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-手工申请出款清除稽核"
+      ["addtime"]=>
+      string(10) "1514171069"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [39]=>
+    array(5) {
+      ["id"]=>
+      string(2) "30"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(43) "人工取款-公司入款误存清除稽核"
+      ["addtime"]=>
+      string(10) "1514166913"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [40]=>
+    array(5) {
+      ["id"]=>
+      string(2) "29"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768285"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [41]=>
+    array(5) {
+      ["id"]=>
+      string(2) "28"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768257"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [42]=>
+    array(5) {
+      ["id"]=>
+      string(2) "27"
+      ["uid"]=>
+      string(3) "138"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1513768252"
+      ["username"]=>
+      string(9) "zpd137137"
+    }
+    [43]=>
+    array(5) {
+      ["id"]=>
+      string(2) "26"
+      ["uid"]=>
+      string(2) "11"
+      ["content"]=>
+      string(37) "人工取款-重复出款清除稽核"
+      ["addtime"]=>
+      string(10) "1512720073"
+      ["username"]=>
+      string(11) "p1368899153"
+    }
+    [44]=>
+    array(5) {
+      ["id"]=>
+      string(2) "25"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511752641"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [45]=>
+    array(5) {
+      ["id"]=>
+      string(2) "24"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751306"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [46]=>
+    array(5) {
+      ["id"]=>
+      string(2) "23"
+      ["uid"]=>
+      string(1) "8"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751281"
+      ["username"]=>
+      string(11) "a2144884531"
+    }
+    [47]=>
+    array(5) {
+      ["id"]=>
+      string(2) "22"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511751102"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [48]=>
+    array(5) {
+      ["id"]=>
+      string(2) "21"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511750532"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [49]=>
+    array(5) {
+      ["id"]=>
+      string(2) "20"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511749824"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [50]=>
+    array(5) {
+      ["id"]=>
+      string(2) "19"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654121"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [51]=>
+    array(5) {
+      ["id"]=>
+      string(2) "18"
+      ["uid"]=>
+      string(2) "65"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511654083"
+      ["username"]=>
+      string(6) "sf2121"
+    }
+    [52]=>
+    array(5) {
+      ["id"]=>
+      string(2) "17"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589158"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [53]=>
+    array(5) {
+      ["id"]=>
+      string(2) "16"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589131"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [54]=>
+    array(5) {
+      ["id"]=>
+      string(2) "15"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589045"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [55]=>
+    array(5) {
+      ["id"]=>
+      string(2) "14"
+      ["uid"]=>
+      string(2) "70"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511589010"
+      ["username"]=>
+      string(6) "sun844"
+    }
+    [56]=>
+    array(5) {
+      ["id"]=>
+      string(2) "13"
+      ["uid"]=>
+      string(2) "72"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511588885"
+      ["username"]=>
+      string(6) "shan87"
+    }
+    [57]=>
+    array(5) {
+      ["id"]=>
+      string(2) "12"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510236"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [58]=>
+    array(5) {
+      ["id"]=>
+      string(2) "11"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511510208"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [59]=>
+    array(5) {
+      ["id"]=>
+      string(2) "10"
+      ["uid"]=>
+      string(1) "9"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511508140"
+      ["username"]=>
+      string(6) "rwflhy"
+    }
+    [60]=>
+    array(5) {
+      ["id"]=>
+      string(1) "9"
+      ["uid"]=>
+      string(2) "37"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330202"
+      ["username"]=>
+      string(7) "xue1221"
+    }
+    [61]=>
+    array(5) {
+      ["id"]=>
+      string(1) "8"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511330095"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [62]=>
+    array(5) {
+      ["id"]=>
+      string(1) "7"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511234511"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [63]=>
+    array(5) {
+      ["id"]=>
+      string(1) "6"
+      ["uid"]=>
+      string(2) "26"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511232265"
+      ["username"]=>
+      string(7) "xhq9488"
+    }
+    [64]=>
+    array(5) {
+      ["id"]=>
+      string(1) "5"
+      ["uid"]=>
+      string(1) "4"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1511230992"
+      ["username"]=>
+      string(13) "as13435877846"
+    }
+    [65]=>
+    array(5) {
+      ["id"]=>
+      string(1) "4"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "拒绝出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510919162"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [66]=>
+    array(5) {
+      ["id"]=>
+      string(1) "3"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918867"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [67]=>
+    array(5) {
+      ["id"]=>
+      string(1) "2"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510918715"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    [68]=>
+    array(5) {
+      ["id"]=>
+      string(1) "1"
+      ["uid"]=>
+      string(1) "7"
+      ["content"]=>
+      string(24) "确认出款清除稽核"
+      ["addtime"]=>
+      string(10) "1510558390"
+      ["username"]=>
+      string(13) "as19808161216"
+    }
+    ["t"]=>
+    string(19) "1970-01-01 08:00:00"
+  }
+}
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1611221978","AuthGC: gc.admin.com;VXpDd2FnWkh2WStCbGdFcis5UWNVQlFEcjc2WW02cmJIVUo2ZjI2dlF3QT0=","ApiURL: auth\/index\/index"]]
+[2018-11-19 06:52:57]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:52:57]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?status=1&rows=10&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 06:53:05]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:53:06]  : [POST][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/out_handle?token=dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/out_handle?token=dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0="]][post参数:{"id":122,"status":4}]
+[2018-11-19 06:53:26]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:53:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?status=1&rows=10&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 06:53:57]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:53:57]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?status=1&rows=10&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 06:54:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:54:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?status=1&rows=10&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 06:54:57]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:54:57]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?status=1&rows=10&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 06:55:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 06:55:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?status=1&rows=10&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 07:12:45]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:12:45]  : [GET][error:接口返回解析出错][url:http://gc.api.com/level/level/level_base][接口返回:string(22) "level/level/level_base"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: level\/level\/level_base"]]
+[2018-11-19 07:12:45]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:12:45]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&][接口返回:string(24) "cash/out_manage/get_list"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-11-19 07:13:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:13:27]  : [POST][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/out_handle?token=dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: cash\/out_manage\/out_handle?token=dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0="]][post参数:{"id":123,"status":4}]
+[2018-11-19 07:14:20]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:14:20]  : [POST][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/out_handle?token=dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ?"]][post参数:{"id":123,"status":4}]
+[2018-11-19 07:14:46]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:15:26]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:16:31]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:18:37]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:19:12]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:19:54]  : [GET][error:接口返回解析出错][url:http://gc.api.com/ping/ping][接口返回:string(9) "ping/ping"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: ping\/ping"]]
+[2018-11-19 07:21:53]  : [GET][error:接口返回解析出错][url:http://gc.api.com/level/member/user_count_all][接口返回:string(27) "level/member/user_count_all"
+][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 2130706433","AuthGC: gc.admin.com;dkFIMmNTclB1QmNrS0lkaEplWGh0MG9LTHFETnFtY3V6aDMxdVIrUDA3WT0=","ApiURL: level\/member\/user_count_all"]]

@@ -1,0 +1,501 @@
+[2018-12-10 02:51:18]  : [POST][error:接口返回解析出错][url:http://gc.api.com/cash/Cash_people/cash_in_people][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/Cash_people\/cash_in_people"]][post参数:{"uid":"27","price":"66.00","discount_price":"3.00","auth_multiple":"1.00","type":1,"auth_dml":"69","remark":"sfds"}]
+[2018-12-10 02:54:59]  : [POST][error:接口返回解析出错][url:http://gc.api.com/cash/Cash_people/cash_in_people][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/Cash_people\/cash_in_people"]][post参数:{"uid":"27","price":"100.00","discount_price":"10.00","auth_multiple":"1.00","type":1,"auth_dml":"110","remark":"sfds"}]
+[2018-12-10 03:02:34]  : [POST][error:接口返回解析出错][url:http://gc.api.com/cash/Cash_people/cash_out_people][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/Cash_people\/cash_out_people"]][post参数:{"uuid":"27","price":222,"remark":"sfd","type":1,"balance":13377.35}]
+[2018-12-10 05:46:43]  : [POST][error:接口返回解析出错][url:http://gc.api.com/setting/setting/save_set][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: setting\/setting\/save_set"]][post参数:{"web_name":"\u6613\u5f69\u4e91","logo":"https:\/\/www.qzgao.com\/uploads\/\/7e8481fab748eee038c2075132c03bc8.png","logo_wap":"https:\/\/www.sqxingyun.com\/uploads\/\/d24c58b6ca4f4ba7c6586159059939c7.png","wap_head_logo":"https:\/\/www.sqxingyun.com\/uploads\/\/99aef125ba7f63965fb0aa80040209c6.png","ios_qrcode":"https:\/\/www.sqxingyun.com\/uploads\/5275a875be9341c723e7c9e2090e8407.png","android_qrcode":"#","keyword":"\u5f69\u7968_\u5f69\u7968\u7f51\u7ad9_\u5f69\u7968\u5f00\u5956_\u6613\u5f69\u4e91\u5f69\u7968","description":"\u5f69\u7968","copyright":"\u6613\u5f69\u4e91\u90d1\u91cd\u63d0\u793a\uff1a\u5f69\u7968\u6709\u98ce\u9669\uff0c\u6295\u6ce8\u9700\u8c28\u614e\u3002\u4e0d\u5411\u672a\u6ee118\u5c81\u7684\u9752\u5c11\u5e74\u51fa\u552e\u5f69\u7968\uff01","qq":"8888","email":"888888@gmail.com","tel":"13888888888","domain":"#","online_service":"https:\/\/v88.live800.com\/live800\/chatClient\/chatbox.jsp?companyID=797903&configID=5410&jid=8591050308&s=1","wap_name":"\u6613\u5f69\u4e91","ios_name":"\u5927\u65b9\u7684\u8bf4\u6cd5","app_download":"\/","incompany_timeout":"180","income_time":"0","incompany_count":"1","cp_default":"1","lottery_auth":["2"],"sys_activity":"1,2","win_dml":"0","reward_day":"100,30000,300000","ios_app_download_url":"","ios_app_version":"1.0.0","android_app_download_url":"","android_app_version":"4.7.4","android_link_check":"","ios_link_check":"","app_key":"","app_master_secret":"","ios_app_key":"","ios_app_master_secret":"","fenxiang_string":"","quick_recharge_url":"","is_bomb_box":"1","card_status":"0","register_is_open":"0","register_open_verificationcode":"0","register_open_username":"0","is_unique_name":"1","is_unique_bank":"1","is_phone":"0","strength_pwd":"0","is_agent":"2","register_discout":"10000","register_discount_from_way":"1,2,3,4","register_num_ip":"100"}]
+[2018-12-11 04:32:44]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544502768&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'a.people_remark' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `a`.`people_remark` as `people_remark`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-12-11 04:33:08]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544502768&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'a.people_remark' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `a`.`people_remark` as `people_remark`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-12-11 04:33:10]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544502768&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'a.people_remark' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `a`.`people_remark` as `people_remark`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-12-11 04:35:15]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544502768&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'a.people_remark' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `a`.`people_remark` as `people_remark`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-12-11 04:35:40]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544502768&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'a.people_remark' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `a`.`people_remark` as `people_remark`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-12-11 04:36:27]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544502768&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'a.o_status' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]
+[2018-12-11 06:36:33]  : [GET][error:接口返回解析出错][url:http://gc.api.com/cash/out_manage/get_list?page=1&rows=50&sort=id&order=desc&skip=1544510197&time_start=2018-12-11&time_end=2018-12-11&f_username=&status=2&agent_id=&impounded=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1054</p><p>Unknown column 'gc_// a.people_remark' in 'field list'</p><p>SELECT `d`.`balance` as `balance`, `a`.`agent_id` as `agent_id`, `c`.`username` as `admin_name`, `e`.`bank_name` as `bank_name`, `a`.`uid` as `uid`, `a`.`id` as `id`, `a`.`is_first` as `is_first`, `a`.`order_num`, `a`.`price` as `price`, `a`.`hand_fee` as `hand_fee`, `a`.`admin_fee` as `admin_fee`, `gc_// a`.`people_remark` as `people_remark`, `a`.`remark` as `remark`, `a`.`actual_price` as `actual_price`, `a`.`is_pass` as `is_pass`, `a`.`addtime` as `addtime`, `a`.`updated` as `updated`, `a`.`status` as `status`, `a`.`admin_id` as `admin_id`, `a`.`url` as `url`, `a`.`o_status` as `o_status`, `a`.`from_way` as `from_way`
+FROM `gc_cash_out_manage` as `a`
+LEFT JOIN `gc_user_detail` as `e` ON `e`.`uid`=`a`.`uid`
+LEFT JOIN `gc_admin` as `c` ON `c`.`id`=`a`.`admin_id`
+LEFT JOIN `gc_cash_list` as `d` ON `d`.`order_num`=`a`.`order_num`
+WHERE `a`.`addtime` >= 1544457600
+AND `a`.`addtime` <= 1544543999
+AND `d`.`type` = 14
+AND (`a`.`status` = 3 or (`a`.`status` = 2 and a.price != a.actual_price))
+ORDER BY `a`.`id` DESC
+ LIMIT 50</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 654</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: bDlnSGxhd2hDUG1jbmlEMi9RbTJFZz09","AUTHGCI: 1732879392","AuthGC: wx.admin.com;SlFrL0hGOHJVV3B6RzBweGpIeUVzMThxeGJwK2k1R1NKRCsrYUt6ZC9VOD0=","ApiURL: cash\/out_manage\/get_list"]]

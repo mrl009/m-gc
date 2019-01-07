@@ -1,0 +1,80 @@
+/*bootstrap样式修改*/
+.table>tbody>tr>td{
+	vertical-align: middle!important;
+}
+
+/* 公共样式 */
+/*边距*/
+.pt7{
+	padding-top:7px;
+}
+
+.ml10{
+	margin-left: 10px;
+}
+
+.m10{
+	margin:10px;
+}
+
+.btn_style{
+	padding:2px 12px!important;
+
+}
+.tec{
+	text-align: center!important;
+}
+
+.ter{
+	text-align: right!important;
+}
+
+.tel{
+	text-align: left!important;
+}
+
+.c_red{
+	color:red!important;
+}
+
+.c_darkred{
+	background:darkred!important;
+}
+
+.c_green{
+	background:#449d44!important;
+}
+
+.c_yellow{
+	background:#f0ad4e!important;
+}
+.c_white{
+	color:#ffffff!important;
+}
+
+.fwb{
+	font-weight: bold!important;
+}
+
+.fwn{
+	font-weight: normal!important;
+}
+.tdu{
+	text-decoration: underline!important;
+}
+
+.vem{
+	vertical-align: middle;
+}
+
+.vet{
+	vertical-align: top;
+}
+
+.fl{
+	float: left!important;
+}
+
+.fr{
+	float: right!important;
+}

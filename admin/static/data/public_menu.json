@@ -1,0 +1,476 @@
+[
+    {
+        "name": "帳號管理",
+        "en_name": "AccountManagement",
+        "icon": "entypo-basket",
+        "submenu": [
+            {
+                "name": "會員管理",
+                "en_name": "MemberManagementList",
+                "url": "member/index/1",
+                "auth": "READ,EDIT,EXPORT,MOBILE,EMAIL,QQ,BANK_PWD,BANK_NAME"
+            },
+            {
+                "name": "等級機制",
+                "en_name": "GradeMechanism",
+                "url": "member/grade_mechanism",
+                "auth": "READ,ADD,EDIT"
+            },
+            {
+                "name": "晉級詳情",
+                "en_name": "PromotionDetail",
+                "url": "member/promotion_detail",
+                "auth": "READ,ADD,EDIT"
+            },
+            {
+                "name": "代理管理",
+                "en_name": "AgentManagementList",
+                "url": "member/index/2",
+                "auth": "READ,EDIT,ADD,EXPORT"
+            },
+            {
+                "name": "子帳號",
+                "en_name": "SubAccountList",
+                "url": "member/child",
+                "auth": "READ,ADD,EDIT,EXPORT"
+            },
+            {
+                "name": "令牌驗證設定",
+                "en_name": "GoogleManagement",
+                "url": "google/index",
+                "auth": "READ,EDIT"
+            },
+            {
+                "name": "嘉奖機制",
+                "en_name": "RewardDay",
+                "url": "reward/index",
+                "auth": "READ,EDIT"
+            },
+            {
+                "name": "嘉奖晋级詳情",
+                "en_name": "RewardDayList",
+                "url": "reward/detail",
+                "auth": "READ"
+            }
+        ]
+    },
+    {
+        "name": "註單",
+        "en_name": "Lottery",
+        "icon": "entypo-basket",
+        "submenu": [
+            {
+                "name": "易彩彩票註單",
+                "en_name": "sLotteryTicketList",
+                "url": "order/index/sc",
+                "auth": "READ,EDIT,EXPORT,CANCEL"
+            }
+        ]
+    },
+    {
+        "name": "報表",
+        "en_name": "Report",
+        "icon": "entypo-basket",
+        "submenu": [
+            {
+                "name": "彩票報表",
+                "en_name": "ReportList",
+                "url": "report/index",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "彩票帳單",
+                "en_name": "ReportLottery",
+                "url": "report/lottery",
+                "auth": "READ"
+            },
+            {
+                "name": "綜合報表",
+                "en_name": "SReportList",
+                "url": "report/s_report",
+                "auth": "READ"
+            },
+            {
+                "name": "圖形報表",
+                "en_name": "ReportChat",
+                "url": "report/chart",
+                "auth": "READ"
+            },
+            {
+                "name": "代理日報表",
+                "en_name": "AgentReport",
+                "url": "agent/index",
+                "auth": "READ,ADD,EXPORT"
+            },
+            {
+                "name": "代理汇总報表",
+                "en_name": "AgentReport",
+                "url": "agent/summarizing",
+                "auth": "READ,ADD,EXPORT"
+            }
+        ]
+    },
+    {
+        "name": "開獎",
+        "en_name": "LotteryDraw",
+        "icon": "entypo-basket",
+        "submenu": [
+            {
+                "name": "開獎列表",
+                "en_name": "LotteryDrawList",
+                "url": "openlottery/index",
+                "auth": "READ,EDIT"
+            }
+        ]
+    },
+    {
+        "name": "層級",
+        "en_name": "Level",
+        "icon": "entypo-basket",
+        "submenu": [
+            {
+              "name": "層級管理",
+              "en_name": "LevelManagement",
+              "url": "level/index",
+              "auth": "READ,ADD,EDIT"
+            },
+            {
+                "name": "支付設定",
+                "en_name": "PaymentSetting",
+                "url": "payset/index",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "入款銀行設定",
+                "en_name": "TopUpBankSetting",
+                "url": "payset/bankset",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "線上支付設定",
+                "en_name": "OnlinePaymentSetting",
+                "url": "payset/online_pay_setting",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "自动出款设定",
+                "en_name": "OutPaymentSetting",
+                "url": "payset/out_pay_setting",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "代付直通車",
+                "en_name": "FastPaySetting",
+                "url": "pay/fast/setting",
+                "auth": "READ,ADD,EDIT,DELETE"
+            }
+        ]
+    },
+    {
+        "name": "現金系統",
+        "en_name": "CashSystem",
+        "icon": "entypo-chart-pie",
+        "submenu": [
+            {
+                "name": "公司入款",
+                "en_name": "CompanyTopUp",
+                "url": "cash/index",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "公司入款核对",
+                "en_name": "CompanyTopUpCheck",
+                "url": "cash/company_top_up_check",
+                "auth": "READ"
+            },
+            {
+                "name": "線上入款",
+                "en_name": "OnlineTopUp",
+                "url": "cash/income",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "彩豆入款",
+                "en_name": "CouponTopUp",
+                "url": "cash/coupon",
+                "auth": "READ,EDIT,EXPORT"
+            },
+            {
+                "name": "出款管理",
+                "en_name": "WithdrawManagement",
+                "url": "cash/payment",
+                "auth": "READ,EDIT,EXPORT"
+            },
+            {
+                "name": "人工存取款",
+                "en_name": "TopUpAndWithDrawForm",
+                "url": "cash/deposit_withdraw_money",
+                "auth": "READ,EDIT"
+            },
+            {
+                "name": "出入匯總",
+                "en_name": "AmountSummary",
+                "url": "cash/amount_summary",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "現金流水",
+                "en_name": "CashFlow",
+                "url": "cash/cash_system",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "稽核日誌",
+                "en_name": "AuditLog",
+                "url": "cash/audit_log",
+                "auth": "READ"
+            },
+            {
+                "name": "稽核查詢",
+                "en_name": "AuditLogSearch",
+                "url": "cash/audit_list",
+                "auth": "READ"
+            },
+            {
+                "name": "會員額度統計",
+                "en_name": "MemberBalancetatistics",
+                "url": "cash/balance",
+                "auth": "READ"
+            },
+            {
+                "name": "未处理出入款",
+                "en_name": "WithdrawAndTopUp",
+                "url": "cash/withdraw_and_top_up",
+                "auth": "READ"
+            }
+        ]
+    },
+    {
+        "name": "會員分析",
+        "en_name": "UserAnalyse",
+        "icon": "entypo-chart-pie",
+        "submenu": [
+            {
+                "name": "下註分析",
+                "en_name": "BettingAnalyse",
+                "url": "useranalyse/bet",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "有效會員",
+                "en_name": "EffectiveUser",
+                "url": "useranalyse/effective_user",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "會員查詢",
+                "en_name": "MemberCheck",
+                "url": "useranalyse/member_check",
+                "auth": "READ,EXPORT,MOBILE,EMAIL,QQ"
+            },
+            {
+                "name": "反水分析",
+                "en_name": "PrivilegeAnalyse",
+                "url": "useranalyse/privilege_analyse",
+                "auth": "READ,EXPORT"
+            },
+            {
+                "name": "出入款分析",
+                "en_name": "CashFlowAnalysis",
+                "url": "useranalyse/analysis_cash",
+                "auth": "READ,EXPORT,EDIT"
+            },
+            {
+                "name": "會員統計",
+                "en_name": "MemberStatistics",
+                "url": "useranalyse/member_statistics",
+                "auth": "READ,EXPORT"
+            }
+        ]
+    },
+    {
+        "name": "日誌消息",
+        "en_name": "LogMessage",
+        "icon": "entypo-chart-pie",
+        "submenu": [
+            {
+                "name": "會員登陸",
+                "en_name": "MemberLogin",
+                "url": "log/member_login",
+                "auth": "READ,DELETE,EXPORT"
+            },
+            {
+                "name": "管理登陸",
+                "en_name": "ManageLogin",
+                "url": "log/manage_login",
+                "auth": "READ,DELETE,EXPORT"
+            },
+            {
+                 "name": "操作記錄",
+                 "en_name": "HandleLog",
+                 "url": "log/handle_log",
+                 "auth": "READ,DELETE,EXPORT"
+            },
+            {
+                "name": "推送消息",
+                "en_name": "MemberInfo",
+                "url": "log/member_info",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "會員公告",
+                "en_name": "FrontNotice",
+                "url": "log/front_notice",
+                "auth": "READ,ADD,EDIT,DELETE"
+            }
+        ]
+    },
+    {
+        "name": "設置",
+        "en_name": "Setting",
+        "icon": "entypo-flow-tree",
+        "submenu": [
+            {
+                "name": "站點配置",
+                "en_name": "SiteSetting",
+                "url": "setting/site_set",
+                "auth": "READ,EDIT"
+            },
+            {
+                "name": "域名配置",
+                "en_name": "SiteConfiguration",
+                "url": "setting/site_domain",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "網站信息",
+                "en_name": "SiteInformation",
+                "url": "setting/site_information",
+                "auth": "READ,EDIT"
+            },
+            {
+                "name": "支付信息",
+                "en_name": "PaymentInformation",
+                "url": "setting/pay_information",
+                "auth": "READ,EDIT"
+            },
+            {
+                 "name": "圖片管理",
+                 "en_name": "AdvertiseManagement",
+                 "url": "setting/images_manage",
+                 "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                 "name": "活動管理",
+                 "en_name": "ActivityManagement",
+                 "url": "setting/activity_manage",
+                 "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "活動黑名单",
+                "en_name": "ActivityManagement",
+                "url": "setting/activity_blacklist",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "易彩彩票管理",
+                "en_name": "sGameSetting",
+                "url": "game/index/sc",
+                "auth": "READ"
+            }
+        ]
+    },
+    {
+        "name": "內容管理",
+        "en_name": "Content",
+        "icon": "entypo-archive",
+        "submenu": [
+            {
+                "name": "內容列表",
+                "en_name": "ContentList",
+                "url": "content/index",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "分類管理",
+                "en_name": "ContChannel",
+                "url": "content/channel",
+                "auth": "READ,ADD,EDIT,DELETE"
+            }
+        ]
+    },
+    {
+        "name": "紅包中心",
+        "en_name": "RedMoney",
+        "icon": "entypo-archive",
+        "submenu": [
+            {
+                "name": "活動設置",
+                "en_name": "RedMoneyActive",
+                "url": "redmoney/activeset",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "等級設置",
+                "en_name": "RedMoneyLavel",
+                "url": "redmoney/lavelset",
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "訂單列表",
+                "en_name": "RedMoneyOrder",
+                "url": "redmoney/orderlist",
+                "auth": "READ"
+            },
+            {
+                "name": "紅包說明",
+                "en_name": "RedMoneyMemo",
+                "url": "redmoney/memo",
+                "auth": "READ,EDIT"
+            }
+        ]
+    },
+    {
+        "name": "互动大厅",
+        "en_name": "Interactive",
+        "icon": "entypo-basket",
+        "submenu": [
+            {
+                "name": "大厅设置",
+                "en_name": "ActivityManage",
+                "url": "interactive/activity/site",
+                "auth": "READ,ADD,EDIT,DELETE"  
+            },
+            {
+                "name": "Vip权限",
+                "en_name": "VipAccess",
+                "url": "interactive/vip/access_list",  
+                "auth": "READ,ADD,EDIT,DELETE"
+            },
+            {
+                "name": "聊天记录",
+                "en_name": "ChatRecord",
+                "url": "interactive/chat/record_list",  
+                "auth": "READ,EDIT,DELETE"
+            },
+            {
+                "name": "禁言列表",
+                "en_name": "ChatSilence",
+                "url": "interactive/chat/silence_list",  
+                "auth": "READ"
+            },
+            {
+                "name": "红包列表",
+                "en_name": "RedPacket",
+                "url": "interactive/packet/packet_list",
+                "auth": "READ,EDIT"
+            },
+            {
+                "name": "红包分析",
+                "en_name": "PacketAnalyse",
+                "url": "interactive/packet/packet_statistics",
+                "auth": "READ,EXPORT"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+
+一.命名规范
+1.控制器首字母大写
+2.控制器方法小写字母，多单词用下划线分隔
+3.视图文件夹与控制器命名相同
+4.视图列表命名list.php 详情及修改页命名edit.php
+------------------------------------------------------------
+二.项目目录说明
+后台控制器  admin\application\controllers
+Cash.php        现金系统
+Level.php       层级管理
+Manager.php     管理员管理
+Member.php      会员管理
+Odds.php        赔率设置
+Openlottery.php 开奖结果
+Order.php       下注列表
+Other.php       其他
+Report.php      报表统计
+Setting.php     设置
+Useranalyse.php 会员分析
+Welcome.php     首页
+
+后台视图  admin\application\views
+welcome_message.php  首页
+startpage.php        开始页
+login.php            登陆页
+errors               错误页
+------------------------------------------------------------

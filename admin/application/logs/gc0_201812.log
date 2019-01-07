@@ -1,0 +1,73 @@
+[2018-12-07 06:56:28]  : [GET][error:接口返回解析出错][url:http://gc.api.com/level/member/index?page=1&rows=50&sort=id&order=desc&type=1&][接口返回:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1146</p><p>Table 'gc.gc_agent_line' doesn't exist</p><p>SELECT count(*) as total_rows
+FROM `gc_user` as `a`
+LEFT JOIN `gc_user_detail` `b` ON `a`.`id`=`b`.`uid`
+LEFT JOIN `gc_level` `c` ON `a`.`level_id`=`c`.`id`
+LEFT JOIN `gc_grade_mechanism` `d` ON `a`.`vip_id`=`d`.`id`
+LEFT JOIN `gc_agent_line` `l` ON `a`.`id`=`l`.`uid`
+ORDER BY `a`.`id` DESC</p><p>Filename: gc/common/GC_Model.php</p><p>Line Number: 516</p>	</div>
+</body>
+</html>][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;WTNMVkF3V0pqaUxMZzFMWkJuelFxSmM2NDVxYkV4NW5TVnh1ZlRML2o2WT0=","ApiURL: level\/member\/index"]]
+[2018-12-17 07:44:05]  : [POST][error:接口返回解析出错][url:http://gc.api.com/reward_day/save_reward][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;bEpvdW5aT1AvWUVrUWlOVWJRS0pDSVNRc0ZHbDZ4M2cwdlBFbVROOXNMRT0=","ApiURL: reward_day\/save_reward"]][post参数:{"id":"1","d1_rate":"0.1","d2_rate":"0.2","d3_rate":"0.33"}]
+[2018-12-18 01:51:19]  : [POST][error:接口返回解析出错][url:http://gc.api.com/reward_day/save_reward][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;bEpvdW5aT1AvWUUyMTVHN0VyWEhxYXZsQjNtcDBnc2dudkR1WjQwSkxMYz0=","ApiURL: reward_day\/save_reward"]][post参数:{"id":"1","d1_rate":"0.1","d2_rate":"0.2","d3_rate":"2.0"}]
+[2018-12-18 01:51:26]  : [POST][error:接口返回解析出错][url:http://gc.api.com/reward_day/save_reward][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;bEpvdW5aT1AvWUUyMTVHN0VyWEhxYXZsQjNtcDBnc2dudkR1WjQwSkxMYz0=","ApiURL: reward_day\/save_reward"]][post参数:{"id":"1","d1_rate":"0.1","d2_rate":"0.2","d3_rate":"2.0"}]
+[2018-12-18 01:52:09]  : [POST][error:接口返回解析出错][url:http://gc.api.com/reward_day/save_reward][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;bEpvdW5aT1AvWUUyMTVHN0VyWEhxYXZsQjNtcDBnc2dudkR1WjQwSkxMYz0=","ApiURL: reward_day\/save_reward"]][post参数:{"id":"1","d1_rate":"0.1","d2_rate":"0.2","d3_rate":"1.0"}]
+[2018-12-18 01:53:24]  : [POST][error:接口返回解析出错][url:http://gc.api.com/reward_day/save_reward][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;bEpvdW5aT1AvWUUyMTVHN0VyWEhxYXZsQjNtcDBnc2dudkR1WjQwSkxMYz0=","ApiURL: reward_day\/save_reward"]][post参数:{"id":"1","d1_rate":"0.1","d2_rate":"0.2","d3_rate":"1.0"}]
+[2018-12-18 01:54:30]  : [POST][error:接口返回解析出错][url:http://gc.api.com/reward_day/save_reward][接口返回:Array][json_last_error:4|Syntax error][头部参数:["AUTHGCD: eklHSHV1TTh1M0ZKZUVqWTNSbkFaQT09","AUTHGCI: 1732879392","AuthGC: gc.admin.com;bEpvdW5aT1AvWUUyMTVHN0VyWEhxYXZsQjNtcDBnc2dudkR1WjQwSkxMYz0=","ApiURL: reward_day\/save_reward"]][post参数:{"id":"1","d1_rate":"0.1","d2_rate":"0.2","d3_rate":"1.0"}]

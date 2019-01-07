@@ -1,0 +1,14 @@
+.top-menu{border:0;overflow: hidden;height:43px;border-bottom: 3px solid #FAAC3D;}
+.top-menu a:hover{background-color:#FAAC3D;color:#fff !important;}
+.acitvebg{background-color:#FAAC3D !important;color:#fff !important;}
+.submenu li .active{color: #FAAC3D !important;}
+.btn-danger {
+    color: #fff !important;
+    background-color: #FAAC3D !important;
+    border-color: #FAAC3D !important;
+}
+/*.datagrid-row-selected {
+    background: #FAAC3D !important;
+    color: #fff;
+}*/
+.tabs li.tabs-selected{border: 0; border-bottom: 3px #FAAC3D solid;font-size: 18px !important;}
