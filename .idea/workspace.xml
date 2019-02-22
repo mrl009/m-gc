@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dc9549a-d5b9-4dc2-8e36-cd0093aed497" name="Default" comment="2">
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/10.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/18.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/9.jpeg" />
+    <list default="true" id="6dc9549a-d5b9-4dc2-8e36-cd0093aed497" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/11.jpg" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/11.jpg" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/12.jpg" afterPath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/12.jpg" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/admin/static/assets/img/backgrounds/9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/admin/application/views/login.php" afterPath="$PROJECT_DIR$/admin/application/views/login.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,47 +17,14 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/application/views/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="36" column="83" lean-forward="false" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+            <state relative-caret-position="413">
+              <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1595#1601#0#HTML" expanded="true" />
+                <element signature="e#1601#1607#0#HTML" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/5.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/7.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/8.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/13.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/14.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -280,14 +229,22 @@
       <option name="project" value="LOCAL" />
       <updated>1550817468999</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <created>1550817932413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550817932413</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3467000" />
+    <option name="totallyTimeSpent" value="3845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1440" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -295,7 +252,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -505,7 +462,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/5.jpg">
+    <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/18.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -515,7 +472,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/13.jpg">
+    <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -525,7 +482,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/18.png">
+    <entry file="file://$PROJECT_DIR$/admin/static/assets/img/backgrounds/13.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -537,10 +494,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/application/views/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="36" column="83" lean-forward="false" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+        <state relative-caret-position="413">
+          <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1595#1601#0#HTML" expanded="true" />
+            <element signature="e#1601#1607#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

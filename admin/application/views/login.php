@@ -30,7 +30,11 @@
 
         </div>
         <div style="text-align:center">
-        <div id="test">請使用Chrome,IE10+,Firefox瀏覽器.</div>
+        <!--<div id="test">請使用Chrome,IE10+,Firefox瀏覽器.</div>-->
+        <div id="test">
+            請使用Chrome,IE10+,Firefox瀏覽器.&nbsp;&nbsp;
+            <a target="_blank" href="http://www.miitbeian.gov.cn" rel="nofollow">粤ICP备18144964号</a>
+        </div>
         </div>
         <script src="<?php echo WEB?>static/assets/js/jquery-1.8.2.min.js"></script>
         <script src="<?php echo WEB?>static/assets/js/supersized.3.2.7.min.js"></script>
