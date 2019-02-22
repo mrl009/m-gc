@@ -33,7 +33,7 @@
         <!--<div id="test">請使用Chrome,IE10+,Firefox瀏覽器.</div>-->
         <div id="test">
             請使用Chrome,IE10+,Firefox瀏覽器.&nbsp;&nbsp;
-            <a target="_blank" href="http://www.miitbeian.gov.cn" rel="nofollow">粤ICP备18144964号</a>
+            <span onclick="gov_jump()">粤ICP备18144964号</span>
         </div>
         </div>
         <script src="<?php echo WEB?>static/assets/js/jquery-1.8.2.min.js"></script>
@@ -64,4 +64,9 @@
         font-size: 18px;
     }
 </style>
+<script>
+    function gov_jump() {
+        location.href = "http://www.miitbeian.gov.cn"
+    }
+</script>
 </html>
