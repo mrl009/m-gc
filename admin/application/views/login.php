@@ -19,7 +19,7 @@
     </head>
     <body>
         <div class="page-container">
-            <h1>后台管理系統</h1>
+            <h1>小程序后台管理</h1>
             <form action="" method="post">
                     <input type="hidden" value="<?php echo $admin_key?>" class="token_private_key" />
                 <input type="text" name="username" class="username" placeholder="Username">
@@ -32,7 +32,6 @@
         <div style="text-align:center">
         <div id="test">請使用Chrome,IE10+,Firefox瀏覽器.</div>
         </div>
-        <!-- Javascript -->
         <script src="<?php echo WEB?>static/assets/js/jquery-1.8.2.min.js"></script>
         <script src="<?php echo WEB?>static/assets/js/supersized.3.2.7.min.js"></script>
         <script src="<?php echo WEB?>static/assets/js/supersized-init.js"></script>
